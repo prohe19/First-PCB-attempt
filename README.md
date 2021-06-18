@@ -15,6 +15,6 @@ pretty? maybe :D
 
 Cons!
 
-no LED support (still figuring out on how they made KBD PCB with RGB LED per key on Atmega 32U4!!
+no LED support (still figuring out on how they made KBD PCB with RGB LED per key on Atmega 32U4!!)
 
 need to be preassembled, yes I designed this project to be preassembled because I am too lazy to solder those components its v small.
