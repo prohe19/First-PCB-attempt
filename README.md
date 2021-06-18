@@ -1,5 +1,6 @@
 # First-PCB-attempt
 first keyboard project hopefully it'll be gooodddd
+
 this is my first PCB design consists of only 4 MX ALP support Switches.
 Also my first try of designing on Kicad, had some trouble on how to route those tracks
 because apparently I really wanted it to be very aesthetic AF but here goes nothing!
